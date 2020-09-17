@@ -1,0 +1,20 @@
+{
+  "name": "food-dist",
+  "version": "1.0.0",
+  "description": "Learn JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xolesteroll/food-dist-udemy-.git"
+  },
+  "author": "xolesteroll",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xolesteroll/food-dist-udemy-/issues"
+  },
+  "homepage": "https://github.com/xolesteroll/food-dist-udemy-#readme",
+  "devDependencies": {}
+}
