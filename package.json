@@ -16,5 +16,8 @@
     "url": "https://github.com/xolesteroll/food-dist-udemy-/issues"
   },
   "homepage": "https://github.com/xolesteroll/food-dist-udemy-#readme",
-  "devDependencies": {}
+  "devDependencies": {
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  }
 }
